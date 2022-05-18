@@ -1,6 +1,7 @@
 {
     "name": "gwen001/myphptestpackage",
     "description": "blablabla test test",
+    "version": "1.0.0",
     "scripts": {
         "pre-install-cmd": "php index.php"
     }
