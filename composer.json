@@ -1,9 +1,9 @@
 {
     "name": "gwen001/myphptestpackage",
     "description": "blablabla test test",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "scripts": {
         "pre-install-cmd": "@php index.php",
-        "post-install-cmd": "Gwenzor\\MyClass::postInstall"
+        "post-install-cmd": "php vendor/gwen001/index.php",
     }
 }
