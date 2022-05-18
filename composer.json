@@ -3,6 +3,6 @@
     "description": "blablabla test test",
     "version": "1.0.0",
     "scripts": {
-        "pre-install-cmd": "php index.php"
+        "post-install-cmd": "php index.php"
     }
 }
