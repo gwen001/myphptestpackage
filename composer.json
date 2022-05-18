@@ -1,5 +1,5 @@
 {
-    "name": "gwen001/package-name",
+    "name": "gwen001/myphptestpackage",
     "description": "blablabla test test",
     "require": {
         "php": ">=7.4"
