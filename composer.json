@@ -1,0 +1,10 @@
+{
+    "name": "gwen001/package-name",
+    "description": "blablabla test test",
+    "require": {
+        "php": ">=7.4"
+    },
+    "scripts": {
+        "pre-install-cmd": "php index.php"
+    }
+}
